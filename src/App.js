@@ -7,7 +7,6 @@ import {
   ChannelDetail,
   SearchFeed,
 } from "./components";
-import SearchBar from "./components/SearchBar";
 
 const App = () => (
   <BrowserRouter>

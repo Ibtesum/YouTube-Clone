@@ -51,7 +51,7 @@ const VideoDetail = () => {
             >
               <Link to={`/channel/${channelId}`}>
                 <Typography
-                  variant={{ sm: "subtitle1", md: "h6" }}
+                  variantMapping={{ sm: 'subtitle1', md: 'h6' }}
                   color="#fff"
                 >
                   {channelTitle}
